@@ -1,9 +1,9 @@
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
 
-NAME:IRFAN KHAN.N
+NAME: muhammed aimen S
 
-REG NO:212224230097
+REG NO:212224240097
 
 # AIM:
 To write a C program that receives a message from message queue and display them
